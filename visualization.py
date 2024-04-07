@@ -1,5 +1,4 @@
-""" Visualization function for the membrane
-
+""" Visualization functions for the membrane
 """
 import cv2
 import io
